@@ -1,4 +1,4 @@
-Deep Learning Topic
+# Deep Learning Topic
 ```
 Artificial Neural Network
 Convolution Neural Network
@@ -10,7 +10,7 @@ Autoencoder
 Backpropagation
 Gradient Descent
 ```
-NLP
+# NLP
 ```
 Sentimenet Analysis
 OCR
